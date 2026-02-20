@@ -1,5 +1,3 @@
-[<img width="1322" height="919" alt="asset" src="https://github.com/user-attachments/assets/24518297-ff14-402b-abe4-433168308fa8" />
-](https://github.com/nikhil-ai-analytics/n8n-enterprise-ai-agent-workflows/blob/c239578f7a2663f3889412af1da8107dec2fac20/asset.png)
 # 🚀 n8n-enterprise-ai-agent-workflows
 
 ## 🧠 Brief One-Line Summary
