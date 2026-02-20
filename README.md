@@ -1,3 +1,5 @@
+<img width="1322" height="919" alt="asset" src="https://github.com/user-attachments/assets/24518297-ff14-402b-abe4-433168308fa8" />
+
 # 🚀 n8n-enterprise-ai-agent-workflows
 
 ## 🧠 Brief One-Line Summary
