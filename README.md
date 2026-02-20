@@ -1,5 +1,3 @@
-<img width="1322" height="661" alt="n8n Enterprise AI Agent Workflow (1)" src="https://github.com/user-attachments/assets/f13df75d-b2a6-49e8-bda5-21e3c6d228cf" />
-
 # 🚀 n8n-enterprise-ai-agent-workflows
 
 ## 🧠 Brief One-Line Summary
